@@ -54,7 +54,7 @@ To get this project up and running on your local machine, follow these steps:
 
 ## Contact
 If you have any questions or comments about the NextWork Web Project, please contact:
-rmdesigns313 - [Your Email](mailto:rmdesigns313@gmail.com) - [RobMcII LinkedIn](https://www.linkedin.com/in/robert-a-mccarther-ii/) 
+rmdesigns313 - [rmdesigns313@gmail.com](mailto:rmdesigns313@gmail.com) - [RobMcII LinkedIn](https://www.linkedin.com/in/robert-a-mccarther-ii/) 
 
 <br>
 
